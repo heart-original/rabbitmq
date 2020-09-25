@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-rabbitmq-receive/01-rabbitmq-receive.iml" filepath="$PROJECT_DIR$/01-rabbitmq-receive/01-rabbitmq-receive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-rabbitmq-send/01-rabbitmq-send.iml" filepath="$PROJECT_DIR$/01-rabbitmq-send/01-rabbitmq-send.iml" />
+    </modules>
+  </component>
+</project>
