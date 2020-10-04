@@ -8,11 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="01-rabbitmq-receive" />
         <module name="01-rabbitmq-send" />
+        <module name="02-rabbitmq-receive-boot" />
+        <module name="02-rabbitmq-send-boot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="01-rabbitmq-receive" target="8" />
-      <module name="01-rabbitmq-send" target="8" />
+      <module name="01-rabbitmq-receive" target="1.5" />
+      <module name="01-rabbitmq-send" target="1.5" />
+      <module name="02-rabbitmq-receive-boot" target="1.8" />
+      <module name="02-rabbitmq-send-boot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

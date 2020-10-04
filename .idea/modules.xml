@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-rabbitmq-receive/01-rabbitmq-receive.iml" filepath="$PROJECT_DIR$/01-rabbitmq-receive/01-rabbitmq-receive.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-rabbitmq-send/01-rabbitmq-send.iml" filepath="$PROJECT_DIR$/01-rabbitmq-send/01-rabbitmq-send.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-rabbitmq-receive-boot/02-rabbitmq-receive-boot.iml" filepath="$PROJECT_DIR$/02-rabbitmq-receive-boot/02-rabbitmq-receive-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-rabbitmq-send-boot/02-rabbitmq-send-boot.iml" filepath="$PROJECT_DIR$/02-rabbitmq-send-boot/02-rabbitmq-send-boot.iml" />
     </modules>
   </component>
 </project>
